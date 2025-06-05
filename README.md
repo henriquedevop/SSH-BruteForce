@@ -23,9 +23,13 @@ Este projeto é um estudo prático de **força bruta via SSH**, utilizando Pytho
 ## 📁 Estrutura do projeto
 
 ssh-brute-force/
+
 ├── best110.txt # Wordlist com senhas
+
 ├── found.txt # Arquivo gerado com os resultados da execução (GERADO APÓS EXECUÇÃO)
+
 ├── script.py # Código principal
+
 └── README.md # Documentação do projeto
 
 
@@ -43,7 +47,7 @@ Certifique-se de editar o IP e o usuário no script (host, username) antes de ex
 A wordlist `best110.txt` foi utilizada como base para este script. Ela está disponível publicamente e foi criada por:
 
 - **Autor/repositório**: danielmiessler
-- **Link**: [[URL para o repositório original]](https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/best110.txt)
+- **Link**: [https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/best110.txt]
 
 Créditos totais aos criadores da wordlist. Este projeto utiliza o arquivo apenas para fins de estudo e demonstração.
 
